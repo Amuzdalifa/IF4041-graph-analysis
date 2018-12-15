@@ -1,2 +1,2 @@
 # IF4041-graph-analysis
-U
+Using networkx to analyze facebook undirected graph data from snap
